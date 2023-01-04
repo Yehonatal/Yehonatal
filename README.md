@@ -6,6 +6,10 @@
 
 - 🔭 I’m currently working on **Frontend projects**
 
+- 🌱 I’m currently learning **React, Data Structures and Algorithms,**
+
+- 👯 I’m looking to collaborate on **Website Dev and Design Projects or anything helpful as well**
+
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r4nn3r&show_icons=true&theme=dark&locale=en" alt="r4nn3r" /></p>
