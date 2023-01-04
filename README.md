@@ -1,15 +1,11 @@
 <h1>Hi 👋, I'm Yonatan</h1>
 <h3>A passionate Frontend Developer from Ethiopia. Planning to learn a lot from the world :).</h3>
 
-<br>
-[![wakatime](https://wakatime.com/badge/user/23b4b157-68e1-4806-bff0-29d434416678.svg)](https://wakatime.com/@23b4b157-68e1-4806-bff0-29d434416678)
-<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4nn3r&label=Profile%20views&color=0e75b6&style=flat" alt="r4nn3r" /> </p>
 
 - 🔭 I’m currently working on **Frontend projects**
 
-- 📫 How to reach me **yonatanafewerk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
