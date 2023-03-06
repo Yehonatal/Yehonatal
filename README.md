@@ -3,6 +3,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/23b4b157-68e1-4806-bff0-29d434416678.svg)](https://wakatime.com/@23b4b157-68e1-4806-bff0-29d434416678)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4nn3r&label=Profile%20views&color=0e75b6&style=flat" alt="r4nn3r" /> </p>
+<br>
+https://www.codewars.com/users/R4nn3r/badges/micro?theme=light
 
 - 🔭 I’m currently working on **Frontend projects**
 
