@@ -15,7 +15,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r4nn3r&show_icons=true&theme=codeSTACKr&locale=en" alt="r4nn3r" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r4nn3r" alt="r4nn3r" /></p>
+
 
 
 <h3 align="left">Connect with me:</h3>
