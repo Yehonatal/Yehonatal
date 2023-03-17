@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Yonatan</h1>
-<p>A passionate Software engineering student from Ethiopia. Planning to learn a lot from the world :) and i don't have a lot but i do want to give back so am down to make joyful and helpful stuff with anyone willing to work together. </p>
+<p>A passionate Software engineering student from Ethiopia. I am son, a friend and most day's infront of a screen :)</p>
 
 [![wakatime](https://wakatime.com/badge/user/23b4b157-68e1-4806-bff0-29d434416678.svg)](https://wakatime.com/@23b4b157-68e1-4806-bff0-29d434416678)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4nn3r&label=Profile%20views&color=0e75b6&style=flat" alt="r4nn3r" /> </p>
@@ -19,7 +19,7 @@
 
 
 
-<h3 align="left">Social: </h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://twitter.com/yonatan_afewerk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yonatan_afewerk" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yonatan-afewerk/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yonatan afewerk" height="30" width="40" /></a>
