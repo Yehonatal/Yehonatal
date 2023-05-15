@@ -14,7 +14,7 @@
 
 
 
- <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=R4nn3r&show_icons=true&theme=radical"/> </a>
+ <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=R4nn3r&show_icons=true&theme=dark"/> </a>
  
  
  
