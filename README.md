@@ -16,7 +16,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=R4nn3r&theme=dark&show_icons=true" alt="r4nn3r" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=R4nn3r&show_icons=true&theme=radical" alt="r4nn3r" /></p> -->
 
 
 
