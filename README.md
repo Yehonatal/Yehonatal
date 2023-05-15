@@ -18,7 +18,7 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=R4nn3r&show_icons=true&theme=radical" alt="r4nn3r" /></p> -->
 
-
+![R4nn3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4nn3r&theme=dark&show_icons=true)
 
 
 #
