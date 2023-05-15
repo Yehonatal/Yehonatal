@@ -14,7 +14,7 @@
 
 
 
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=R4nn3r&theme=react&line_height=40&hide=css"/> </a>
+ <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=R4nn3r&show_icons=true&theme=radical"/> </a>
  
  
  
