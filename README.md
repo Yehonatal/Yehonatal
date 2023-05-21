@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Frontend projects**
 
-- 🌱 I’m currently learning **React, Data Structures and Algorithms,**
+- 🌱 I’m currently learning **MERN Stack, Data Structures and Algorithms,**
 
 - 👯 I’m looking to collaborate on **Website Dev and Design Projects or anything helpful as well**
 
