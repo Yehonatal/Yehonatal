@@ -30,11 +30,11 @@
 
 
 #
-<div  align="left">
+<div  align="left" style="display: flex;">
  <p><a href="https://twitter.com/yonatan_afewerk" target="_blank">x(Twitter)   </a></p>
-<p><a href="https://www.linkedin.com/in/yonatan-afewerk/" target="_blank">LinkedIn   </a><p/>
-<p><a href="https://instagram.com/yonatanafewerkteshome" target="_blank">Instagram </a><p/>
- <div/>
+ <p><a href="https://www.linkedin.com/in/yonatan-afewerk/" target="_blank">LinkedIn   </a><p/>
+ <p><a href="https://instagram.com/yonatanafewerkteshome" target="_blank">Instagram </a><p/>
+<div/>
 
 
 
