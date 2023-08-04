@@ -30,7 +30,7 @@
 
 
 #
-<div  align="left" style="display: flex;">
+<div  align="left" style="display: flex; gap:20px;">
  <p><a href="https://twitter.com/yonatan_afewerk" target="_blank">x(Twitter)   </a></p>
  <p><a href="https://www.linkedin.com/in/yonatan-afewerk/" target="_blank">LinkedIn   </a><p/>
  <p><a href="https://instagram.com/yonatanafewerkteshome" target="_blank">Instagram </a><p/>
