@@ -32,9 +32,9 @@
 #
 
 <p align="left">
-<a href="https://twitter.com/yonatan_afewerk" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yonatan_afewerk" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yonatan-afewerk/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yonatan afewerk" height="30" width="40" /></a>
-<a href="https://instagram.com/yonatanafewerkteshome" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yonatanafewerkteshome" height="30" width="40" /></a>
+<a href="https://twitter.com/yonatan_afewerk" target="_blank">X(Twitter)</a>
+<a href="https://www.linkedin.com/in/yonatan-afewerk/" target="_blank">LinkedIn</a>
+<a href="https://instagram.com/yonatanafewerkteshome" target="_blank">Instagram</a>
 </p>
 
 
