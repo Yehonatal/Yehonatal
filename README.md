@@ -32,8 +32,8 @@
 #
 
 <p align="left">
-<a href="https://twitter.com/yonatan_afewerk" target="_blank">X(Twitter) </a>
-<a href="https://www.linkedin.com/in/yonatan-afewerk/" target="_blank">LinkedIn </a>
+<a href="https://twitter.com/yonatan_afewerk" target="_blank">x(Twitter)   </a>
+<a href="https://www.linkedin.com/in/yonatan-afewerk/" target="_blank">LinkedIn   </a>
 <a href="https://instagram.com/yonatanafewerkteshome" target="_blank">Instagram </a>
 </p>
 
