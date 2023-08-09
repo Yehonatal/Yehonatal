@@ -5,19 +5,8 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4nn3r&label=Profile%20views&color=0e75b6&style=flat" alt="r4nn3r" /> </p> -->
 <br>
 
-
-- 🔭 I’m currently working on **Frontend projects**
-
-- 🌱 I’m currently learning **MERN Stack, Data Structures and Algorithms,**
-
-- 👯 I’m looking to collaborate on **Website Dev and Design Projects or anything helpful as well**
-
-
-
  <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=R4nn3r&show_icons=true&theme=dark"/> </a>
- 
- 
- 
+  
 #
 
 <h4>Programming Languages</h4>
