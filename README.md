@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Yonatan</h1>
-<p>A passionate Software engineering student from Ethiopia. I'm a son, friend, Developer and most day's infront of a screen :)</p>
+<p>A passionate Software engineering student from Ethiopia. I'm a son, friend, Developer and most day's front of a screen :)</p>
 
 [![wakatime](https://wakatime.com/badge/user/23b4b157-68e1-4806-bff0-29d434416678.svg)](https://wakatime.com/@23b4b157-68e1-4806-bff0-29d434416678)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4nn3r&label=Profile%20views&color=0e75b6&style=flat" alt="r4nn3r" /> </p> -->
 <br>
 
- <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=R4nn3r&show_icons=true&theme=dark"/> </a>
+ ![R4nn3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4nn3r&theme=dark&show_icons=true)
   
 #
 
