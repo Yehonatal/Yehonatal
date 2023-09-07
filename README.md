@@ -1,5 +1,5 @@
-### Hi 👋, I'm Yonatan
-#### A passionate Software engineering student from Ethiopia. I'm a son, friend, Developer and most day's front of a screen :)</p>
+    A passionate Software engineering student from Ethiopia. I'm a son, a friend, a Developer, 
+    And most days in front of a screen making stuff :)
 
 [![wakatime](https://wakatime.com/badge/user/23b4b157-68e1-4806-bff0-29d434416678.svg)](https://wakatime.com/@23b4b157-68e1-4806-bff0-29d434416678)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=r4nn3r&label=Profile%20views&color=0e75b6&style=flat" alt="r4nn3r" /> </p> -->
@@ -32,7 +32,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Tool's**
+**Tools**
 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -46,7 +46,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-**Os I'm running**
+**OS I'm running**
 
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
