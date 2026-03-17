@@ -1,5 +1,7 @@
 <p>
-I’m a Software Engineering student passionate about building useful things, exploring how systems work, and learning new technologies. My main interests are web development, backend systems, and AI tooling.
+Software Engineer passionate about building useful systems and tools.
+I enjoy turning complex ideas into simple, usable solutions and continuously exploring how things work under the hood.
+Focused on creating practical, well-designed software that solves real problems.
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/23b4b157-68e1-4806-bff0-29d434416678.svg)](https://wakatime.com/@23b4b157-68e1-4806-bff0-29d434416678)
